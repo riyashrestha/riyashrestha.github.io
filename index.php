@@ -137,7 +137,8 @@
             </div>
           </div>
           <!--End of second row-->
-        </div>
+        </div>git add .
+
         <!--End of Skills-->
 
         <button class="w3-button w3-light-grey w3-padding-large w3-section">
